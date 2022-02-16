@@ -1,6 +1,8 @@
 # Quantitatively-assessing-aging-effects-in-rapid-motor-behaviours
 Analysis and figure generation code for the paper "Quantitatively assessing aging effects in rapid motor behaviours: a cross-sectional study."
 
+[![DOI](https://zenodo.org/badge/460133205.svg)](https://zenodo.org/badge/latestdoi/460133205)
+
 ## Code
 1. ageEffectsOnRapidMotorBehaviour.m
 

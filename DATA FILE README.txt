@@ -44,9 +44,8 @@ turboFlag = If 1, then the file contains trials for a Turbo task variant. If 0, 
 
 3. Quantitatively-assessing-aging_Participant-demographics.mat
 
-The participants map contains 643 participants mapped to their demographic data using their participant ID as a key. This demographic data consists of 8 fields.
+The participants map contains 643 participants mapped to their demographic data using their participant ID as a key. This demographic data consists of 7 fields.
 - Sex (coded as M for male or F for female)
-- Date of Birth (coded YYYY-MM-DD)
 - Handedness (coded as -10 for left-handed, 0 for ambidextrous, and 10 for right handed)
 - Age (calculated based on the date of the trial)
 - Performed OH (binary flag, 1 indicates performed at least one OH trial)
